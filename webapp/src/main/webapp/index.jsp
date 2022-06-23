@@ -3,6 +3,7 @@
 <h2> how are you all...? </h2>
 <h2> automated the build job with poll scm </h2>
 <h2> automated the build job with web-hooks </h2>
+<h2> automated both build and deployment </h2>
 
 
 
